@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/cake-bee/static/css/main.7d486c6f.css",
+    "main.js": "/cake-bee/static/js/main.6c85c580.js",
+    "static/js/787.3cd51b99.chunk.js": "/cake-bee/static/js/787.3cd51b99.chunk.js",
+    "static/media/slide-3.jpg": "/cake-bee/static/media/slide-3.8cb62707b254d7a82283.jpg",
+    "static/media/white_velvet.jpg": "/cake-bee/static/media/white_velvet.0eb921cd7bd2e9bbabef.jpg",
+    "static/media/Funfetti-Cake.jpg": "/cake-bee/static/media/Funfetti-Cake.eac8ffe123b8679441cb.jpg",
+    "static/media/pink_velvet.jpg": "/cake-bee/static/media/pink_velvet.6a5390acb36ad26f93c0.jpg",
+    "static/media/Black_Forest.webp": "/cake-bee/static/media/Black_Forest.1d42b28ac6def28f5b52.webp",
+    "static/media/slide-1.jpg": "/cake-bee/static/media/slide-1.4abb2debc595f737faa2.jpg",
+    "static/media/slide-2.jpg": "/cake-bee/static/media/slide-2.5f16c59e3fc076679789.jpg",
+    "static/media/choclate_truffle.webp": "/cake-bee/static/media/choclate_truffle.a42e26a6a851a973e4d8.webp",
+    "static/media/red-velvet.webp": "/cake-bee/static/media/red-velvet.f5466c9d4a8815502b9b.webp",
+    "static/media/blackcurrent_cake.jpg": "/cake-bee/static/media/blackcurrent_cake.9de1267bc4ffc2359b2e.jpg",
+    "static/media/dream_cake.jpg": "/cake-bee/static/media/dream_cake.5ebaa420a951f276ebc3.jpg",
+    "static/media/bg.jpg": "/cake-bee/static/media/bg.df37c84cf8931f2a343e.jpg",
+    "static/media/fruit_cake.jpg": "/cake-bee/static/media/fruit_cake.0b7f12f3b9094a6d0edf.jpg",
+    "static/media/churro_cake.jpg": "/cake-bee/static/media/churro_cake.0a58da6268eca0bc05c8.jpg",
+    "index.html": "/cake-bee/index.html",
+    "main.7d486c6f.css.map": "/cake-bee/static/css/main.7d486c6f.css.map",
+    "main.6c85c580.js.map": "/cake-bee/static/js/main.6c85c580.js.map",
+    "787.3cd51b99.chunk.js.map": "/cake-bee/static/js/787.3cd51b99.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d486c6f.css",
+    "static/js/main.6c85c580.js"
+  ]
+}
